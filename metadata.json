@@ -1,0 +1,8 @@
+{
+  "name": "An Nhiên Appartment",
+  "description": "Hệ thống SaaS Quản Lý Chung Cư Mini & Nhà Trọ Chuyên Nghiệp. Quản lý vận hành chuỗi bất động sản dòng tiền, tối ưu hóa quy trình chốt số dịch vụ, tự động hóa tính toán hóa đơn và cung cấp bức tranh tài chính đa năm chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
